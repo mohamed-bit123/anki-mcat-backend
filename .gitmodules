@@ -1,3 +1,4 @@
 [submodule "anki"]
 	path = anki
-	url = https://github.com/ankitects/anki
+	url = https://github.com/mohamed-bit123/anki-mcat.git
+	branch = mobile-backend-25.09.2
